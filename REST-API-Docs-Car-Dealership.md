@@ -1,6 +1,6 @@
 Github Repository:
 
-[DealerVision ReadMe](https://raw.githubusercontent.com/reganmarie/DealerVision/main/README.md)
+[DealerVision ReadMe]([https://raw.githubusercontent.com/reganmarie/DealerVision/main/README.md](https://github.com/reganmarie/DealerVision))
 
 ######
 ## Video Walkthrough of Application:
